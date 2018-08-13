@@ -1,10 +1,10 @@
 {
-  "name": "Anthony",
-  "description": "The perfect bot for Discord.",
+  "name": "Phoenix API Logs & Processes",
+  "description": "API Bot",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
