@@ -1,5 +1,5 @@
-const DiscordConnection = require("discord.js")
-const PixLogs = new Discord.Client();
+const DiscordConnection = require("discord.js");
+const PixLogs = new DiscordConnection.Client();
 const PixVersions = require("./package.json")
 const PixLogsVer = ("V1 Alpha Release")
 const PixEmergencyLogs = new Discord.WebhookClient((process.env.EmergencyLogsID), (process.env.EmergencyLogsTO))
