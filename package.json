@@ -1,14 +1,25 @@
 {
-  "name": "Phoenix API Logs & Processes",
-  "description": "API Bot",
-  "version": "0.0.0",
-  "main": "index.js",
+  "name": "Phoenix API",
+  "version": "0.0.1",
+  "description": "None Of You Buisness",
+  "main": "assistant.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node PhoenixLOGS.js"
   },
   "dependencies": {
-    "discord.js": "11.1.0",
-    "fs": "0.0.1-security",
-    "ms": "2.1.1"
-  }
+    "discord.js": "^11.3.2",
+    "node-opus": "^0.3.0",
+    "sleep": "^5.1.1"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/ThatPhoenix/PhoenixAPI-LOGS"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "express"
+  ]
 }
