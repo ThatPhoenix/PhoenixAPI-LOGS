@@ -1,13 +1,13 @@
 {
   "name": "Phoenix API",
   "version": "0.0.1",
-  "description": "None Of You Buisness",
+  "description": "None Of Your Buisness",
   "main": "assistant.js",
   "scripts": {
     "start": "node PhoenixLOGS.js"
   },
   "dependencies": {
-    "discord.js": "^11.3.2",
+    "discord.js": "^11.4.2",
     "node-opus": "^0.3.0",
     "sleep": "^5.1.1"
   },
