@@ -17,8 +17,8 @@
    "dependencies": {
     "discord.js" : "^11.3.0"
   }
-  "author": "ThatPhoenix",
-  "license": "MIT",
+  "author" : "ThatPhoenix",
+  "license" : "MIT",
   "bugs": {
     "url": "https://github.com/ThatPhoenix/PhoenixAPI-LOGS/issues"
   },
