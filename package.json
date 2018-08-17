@@ -1,25 +1,22 @@
 {
   "name": "Phoenix API",
-  "version": "0.0.1",
-  "description": "None Of Your Buisness",
-  "main": "assistant.js",
-  "scripts": {
-    "start": "node PhoenixLOGS.js"
-  },
-  "dependencies": {
-    "discord.js": "^11.4.2",
-    "node-opus": "^0.3.0",
-    "sleep": "^5.1.1"
-  },
+  "version": "1.0.0",
+  "description": "None of your Buisness",
+  "main": "index.js",
   "engines": {
-    "node": "8.x"
+      "node": "8.x",
+      "npm": "*"
   },
-  "repository": {
-    "url": "https://github.com/ThatPhoenix/PhoenixAPI-LOGS"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "license": "MIT",
   "keywords": [
-    "node",
-    "express"
-  ]
+    "heroku",
+    "discord.js"
+  ],
+  "author": "ThatPhoenix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThatPhoenix/PhoenixAPI-LOGS/issues"
+  },
 }
